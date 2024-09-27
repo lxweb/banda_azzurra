@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Lista de reproducción</title>
+	<trackList>
+		<track>
+			<location>file:///C:/Users/camel/Documents/Lisandro/003_Saxo/Banda%20Azzurra/Temas/009_El_Padrino(x)/v2-2024/Records/el_padrino.mp3</location>
+			<duration>256508</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/camel/Documents/Lisandro/003_Saxo/Banda%20Azzurra/Temas/014_Bella_Ciao(x)/Records/ref_vientos_Bella_Ciao.mp3</location>
+			<creator>Leandro</creator>
+			<duration>228075</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/camel/Documents/Lisandro/003_Saxo/Banda%20Azzurra/Temas/008_Come_Prima(x)/Records/Banda%20Azzura%20-%20Cover%20Come%20Prima.mp4</location>
+			<duration>177146</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/camel/Documents/Lisandro/003_Saxo/Banda%20Azzurra/Temas/010_Un_estate_italiana(x)/Records/Banda%20Azzurra%20-%20Un&#39;Estate%20Italiana%20reversion%20[5musxl_Psm4].mp4</location>
+			<duration>266448</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/camel/Documents/Lisandro/003_Saxo/Banda%20Azzurra/Temas/017_Nessuno(x)/Nessuno%20refe%20voz%20Ok.mp3</location>
+			<creator>Leandro</creator>
+			<duration>132571</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/camel/Documents/Lisandro/003_Saxo/Banda%20Azzurra/Temas/012_Nel_blu_dipinto_di_blu(x)/Records/Banda%20Azzurra%20-%20Ne%20Blu%20Di%20pinto%20di%20blu%20(Reversion)%20[E9WhDuth0Qw].mp4</location>
+			<duration>250496</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/camel/Documents/Lisandro/003_Saxo/Banda%20Azzurra/Temas/015_O_sole_mio(x)/Records/Banda%20Azzurra%20-%20O%20Sole%20Mio%20(Reversion)%20[x7aGZltGDE0].mp4</location>
+			<duration>197857</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/camel/Documents/Lisandro/003_Saxo/Banda%20Azzurra/Temas/005_Buona_Sera(x)/Records/Banda%20Azzurra%20-%20Buona%20Sera%20-%20Giramondo%20(Reversion)%20[mp2pp3WqsME].mp4</location>
+			<duration>244645</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/camel/Documents/Lisandro/003_Saxo/Banda%20Azzurra/Temas/006_Giramondo(x)/Records/Banda%20Azzurra%20-%20Cover%20Giramondo%20[1Yl4p5iA-1E].mp4</location>
+			<duration>180326</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/camel/Documents/Lisandro/003_Saxo/Banda%20Azzurra/Temas/023_Speedy_Gonzalez(x)/Records/MANOLO%20MU%C3%91OZ%20%20%20%20SPEEDY%20GONZALEZ%20HD%20[84kVsyLNVNk].mp4</location>
+			<duration>154644</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>9</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/camel/Documents/Lisandro/003_Saxo/Banda%20Azzurra/Temas/007_Tintarella(x)/Records/Tintarella%20refe%20voz.mp3</location>
+			<creator>Leandro</creator>
+			<duration>100571</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>10</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/camel/Documents/Lisandro/003_Saxo/Banda%20Azzurra/Temas/013_Ballo_del_mattone(x)/Records/Banda%20Azzurra%20-%20Cover%20Il%20Ballo%20del%20Mattone.mp4</location>
+			<duration>159359</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>11</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/camel/Documents/Lisandro/003_Saxo/Banda%20Azzurra/Temas/011_Vuo_fa_l&#39;americano(x)/Records/Banda%20Azzurra%20-%20Cover%20Tu%20vu%C3%B2%20f%C3%A0%20l&#39;americano%20[TnrnA5ZfqG0].mp4</location>
+			<duration>186595</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>12</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/camel/Documents/Lisandro/003_Saxo/Banda%20Azzurra/Temas/018_Che_la_Luna(x)/Record/Banda%20Azzurra%20-%20Che%20La%20Luna%20-%20Funicula%20[TEsrjI8q_mo].mp4</location>
+			<duration>345675</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>13</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/camel/Documents/Lisandro/003_Saxo/Banda%20Azzurra/Temas/026_Sara_perche_ti_amo(x)/Records/Sara_perche_ti_amo.mp3</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>14</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+		<vlc:item tid="8"/>
+		<vlc:item tid="9"/>
+		<vlc:item tid="10"/>
+		<vlc:item tid="11"/>
+		<vlc:item tid="12"/>
+		<vlc:item tid="13"/>
+		<vlc:item tid="14"/>
+	</extension>
+</playlist>
